@@ -1,3 +1,9 @@
 {
-  "students": []
+  "students": [
+    {
+    "firstname": "Sudipta Sarkar",
+    "email": "sudipta.ep@gmail.com",
+    "mobile": "09035276584"
+}
+  ]
 }
